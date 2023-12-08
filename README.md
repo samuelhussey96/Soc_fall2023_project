@@ -1,6 +1,6 @@
 # Capacitive Touch Controller
 
-This project implements the basic components of a capacitive touch screen. 
+This project implements the basic components of a capacitive touch screen. The interesting stuff is in the main cpp and header files.
 
 ## Description
 
